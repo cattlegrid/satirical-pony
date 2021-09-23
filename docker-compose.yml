@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+
+  satirical-pony:
+    image: tmigone/satirical-pony
+    privileged: true
